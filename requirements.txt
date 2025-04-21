@@ -1,0 +1,7 @@
+requests
+lxml
+pandas
+scikit-learn
+python-dotenv
+flask
+gunicorn
